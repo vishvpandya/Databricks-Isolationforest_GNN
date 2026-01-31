@@ -4,7 +4,7 @@
 ## 📌 Overview
 This project implements an end-to-end bank fraud detection system using **Graph Neural Networks (GNNs)** and **Isolation Forest** on synthetic banking data.
 
-The system is built on **Databricks** using a layered **Bronze → Silver → Gold** architecture and provides explainable fraud predictions via a **Streamlit dashboard**.
+The system is built on **Databricks** using a layered **Bronze → Silver → Gold** architecture 
 
 ---
 
