@@ -9,7 +9,7 @@ The system is built on **Databricks** using a layered **Bronze → Silver → Go
 ---
 
 ## 🧠 Architecture
-![Pipeline](images/pipeline_dag.png)
+![Pipeline](databricks-Isolationforest-gnn-project/image/pipeline_dag.png)
 
 ---
 
